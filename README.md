@@ -1,3 +1,3 @@
 # KataPHP_seaMarket
 
-[Kata](https://github.com/12meses12katas/Mayo-KataLonja)
+[Repository Kata](https://github.com/12meses12katas/Mayo-KataLonja) -> Explained in Spanish
